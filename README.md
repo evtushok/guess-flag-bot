@@ -20,7 +20,7 @@ Flag Guesser Bot — это интерактивный Telegram-бот, кото
 ## Требования
 
 - Python 3.8+
-- Токен Telegram Bot API
+- Токен Telegram Bot API (генерация через @BotFather в Telegram командой /newbot)
 
 ## Использование
 
@@ -29,7 +29,7 @@ Flag Guesser Bot — это интерактивный Telegram-бот, кото
 git clone https://github.com/evtushok/guess-flag-bot.git
 cd guess-flag-bot
 ```
-
+В config.py вставляйте токен в BOT_TOKEN, который вам выдал @BotFather в Telegram
 ### 2. Создайте виртуальное окружение
 ```bash
 python -m venv venv
