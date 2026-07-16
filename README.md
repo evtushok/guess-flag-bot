@@ -48,8 +48,8 @@ python bot.py
 
 ### Команды бота
 
-- `/start` — Начать игру
-- `/help` — Полноценные правила игры
+- `/start` - начать игру
+- `/help` - полноценные правила игры
 
 ### Правила игры
 
@@ -58,5 +58,5 @@ python bot.py
 3. За правильный ответ начисляются очки
 4. Старайтесь набирать наибольшее количество очков
 
-- [aiogram](https://docs.aiogram.dev/) — Фреймворк для Telegram Bot API
-- [aiohttp](https://docs.aiohttp.org/) — Асинхронный HTTP клиент
+- [aiogram](https://docs.aiogram.dev/) - фреймворк для Telegram Bot API
+- [aiohttp](https://docs.aiohttp.org/) - асинхронный HTTP клиент
